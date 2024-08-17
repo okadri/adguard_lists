@@ -1,3 +1,4 @@
 # This blocklist helps Adguard admin restrict access to apple iMessage.
+||apple.com^
 ||ess.apple.com^
 ||wps.apple.com^
