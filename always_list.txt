@@ -1,0 +1,3 @@
+! Useless AI services
+||characterai.io^$ctag=user_child
+||character.ai^$ctag=user_child
