@@ -4,3 +4,4 @@
 ||janitorai.com^$ctag=user_child
 ||api.harpy.chat^$ctag=user_child
 ||chub.ai^$ctag=user_child
+||charhub.ai^$ctag=user_child
